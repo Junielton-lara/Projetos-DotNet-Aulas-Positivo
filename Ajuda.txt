@@ -1,0 +1,8 @@
+Criar um projeto
+
+dotnet new console --nomedoprojeto
+
+rodar o projeto
+
+dot net run 
+

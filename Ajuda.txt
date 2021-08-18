@@ -6,3 +6,8 @@ rodar o projeto
 
 dot net run 
 
+
+==========
+COMMIT
+
+git c "comentario do commit"

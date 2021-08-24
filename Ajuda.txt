@@ -8,6 +8,10 @@ dot net run
 
 
 ==========
-COMMIT
+COMMIT resumido
 
 git c "comentario do commit"
+
+dotnet new webapi --name API
+
+
